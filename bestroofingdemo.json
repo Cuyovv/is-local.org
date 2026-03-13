@@ -1,10 +1,11 @@
 {
-    "domain": "bestroofingdemo.json",
+    "domain": "bestroofingdemo",
     "description": "bestroofingdemo",
     "records": {
         "CNAME": "cuyovv.github.io"
     },
-    "owner": "cuyovv",
+    "owner": {
+        "username": "cuyovv",
         "email": "yogi870450@gmail.com"
     }
 }
